@@ -1,5 +1,10 @@
 Welcome Home
 Hello welcome again
+<<<<<<< Updated upstream
 tiueworiuwe
 line no 4 test
 My another changes after stash.
+=======
+
+Changes after stash.
+>>>>>>> Stashed changes
